@@ -2,14 +2,14 @@
 
 ## Introduction
 This Project mainly focuses on applying a machine-learning algorithm to detect Phishing websites.
-In order to detect and predict phishing websites (specially for e-banking purpose), we have proposed an intelligent, flexible and effective system that is based on using classification algorithms.  We implemented classification algorithms and techniques to extract the phishing datasets criteria to classify their legitimacy. The phishing websites can be detected based upon some important characteristics like URL and domain identity. When a user wants to make a payment through an e-banking website our system will use a data mining algorithm to detect whether the e-banking website is a phishing website or not.
+In order to detect and predict phishing websites (especially for e-banking purposes), we have proposed an intelligent, flexible and effective system that is based on using classification algorithms.  We implemented classification algorithms and techniques to extract the phishing datasets' criteria to classify their legitimacy. The phishing websites can be detected based upon some important characteristics like URL and domain identity. When a user wants to make a payment through an e-banking website our system will use a data mining algorithm to detect whether the e-banking website is a phishing website or not.
 
 
 ## Objective
-The purpose of the project is to detect fake or phishing websites that are trying to get access to sensitive data such as users’ personal credentials.  We implemented classification algorithms and techniques to extract the phishing datasets criteria to classify their legitimacy. We are basically trying to safeguard sensitive data by detecting which websites are trying to gain unauthorized access, with the help of machine learning techniques. 
+The purpose of the project is to detect fake or phishing websites that are trying to get access to sensitive data such as users’ personal credentials.  We implemented classification algorithms and techniques to extract the phishing datasets' criteria to classify their legitimacy. We are basically trying to safeguard sensitive data by detecting which websites are trying to gain unauthorized access, with the help of machine learning techniques. 
 
 ## Proposed Solution
-We have proposed a solution that uses ML techniques to detect phisihing websites from their URLs. We have created a web based Phishing detection interface with the help of Flask framework. We trained a Logistic regression model from a predefined data set on numerous set of features and deployed it using IBM Watson Studio in order to accurately determine potential phishing websites.
+We have proposed a solution that uses ML techniques to detect phishing websites from their URLs. We have created a web based Phishing detection interface with the help of Flask framework. We trained a Logistic regression model from a predefined data set on numerous set of features and deployed it using IBM Watson Studio in order to accurately determine potential phishing websites.
 
 ##### We achieved an accuracy rate of 91.6% for our ML model. 
 
@@ -49,7 +49,7 @@ We have proposed a solution that uses ML techniques to detect phisihing websites
 
 It has a wide range of applications. Some of which are - 
 
-  -It can be used as generic checker if any someone is not sure about a website while entering personal information.</br>
+  -It can be used as a generic checker if someone is not sure about a website while entering personal information.</br>
   -It can converted into an extension which can then be used by web browsers to quickly detect and alert the user in case of a phishing website.</br>
   -Can be integrated with antiviruses and firewalls to avoid and block such websites from accessing information.</br>
   -The solution can be applied in the e-banking and payment sector.</br>
