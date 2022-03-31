@@ -9,7 +9,7 @@ In order to detect and predict phishing websites (specially for e-banking purpos
 The purpose of the project is to detect fake or phishing websites that are trying to get access to sensitive data such as users’ personal credentials.  We implemented classification algorithms and techniques to extract the phishing datasets criteria to classify their legitimacy. We are basically trying to safeguard sensitive data by detecting which websites are trying to gain unauthorized access, with the help of machine learning techniques. 
 
 ## Proposed Solution
-We have a solution that uses a Logistic Regression ML Model to detect phisihing websites from their URLS. We have created a web based Phishing detection interface with the help of Flask framework. We have trained a Logistic regression model from a predefined data set on numerous set of features and deployed it using IBM Watson Studio in order to accurately determine potential phishing websites.
+We have proposed a solution that uses ML techniques to detect phisihing websites from their URLs. We have created a web based Phishing detection interface with the help of Flask framework. We trained a Logistic regression model from a predefined data set on numerous set of features and deployed it using IBM Watson Studio in order to accurately determine potential phishing websites.
 
 ## We achieved an accuracy rate of 91.6% for our ML model. 
 
