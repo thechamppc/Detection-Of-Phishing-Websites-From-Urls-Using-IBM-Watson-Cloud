@@ -14,47 +14,47 @@ We have proposed a solution that uses ML techniques to detect phisihing websites
 ##### We achieved an accuracy rate of 91.6% for our ML model. 
 
 ### Hardware Requirements :
-  -A Generic PC with at least 8 GB ram
-  -A Tensorprocessing Unit for faster calculations and accurate model training
-  -A good Processor to handle all the operations
+  -A Generic PC with at least 8 GB ram </br>
+  -A Tensorprocessing Unit for faster calculations and accurate model training</br>
+  -A good Processor to handle all the operations </br>
 
 ### Software Requirements :
-  -A Windows / Linux / Mac Operating System
-  -Anaconda Installed including with all the Dependencies
-  -Spyder,Jupyter notebook and Flask for the entire application development.
+  -A Windows / Linux / Mac Operating System</br>
+  -Anaconda Installed including with all the Dependencies</br>
+  -Spyder,Jupyter notebook and Flask for the entire application development</br>
   
 ### Deployment Requirements :
-  -IBM Cloud
-  -IBM Watson Studio
+  -IBM Cloud</br>
+  -IBM Watson Studio</br>
   
 ## Advantages and Disadvantages
 
 ### Advantages
-  -Easily identifies trends and patterns in phishing sites
-  -Continuous Development
-  -Completely Automated
-  -Quickly Determines Malicious Sites
-  -Can be Integrated anywhere with online deployment
-  -Efficient'
-  -Online payment processes become secure
+  -Easily identifies trends and patterns in phishing sites</br>
+  -Continuous Development</br>
+  -Completely Automated</br>
+  -Quickly Determines Malicious Sites</br>
+  -Can be Integrated anywhere with online deployment</br>
+  -Efficient'</br>
+  -Online payment processes become secure</br>
 
 ### Disadvantages
-  -Data Acquisition
-  -Takes a lot of time to train models
-  -Efficiency is dependent upon the data acquired
-  -Model checks the URLs for only a fixed set of features. With technological advances, phishing URLs are also changing appearances.
-  -Consumes a lot of CPU, GPU and TPU power to train models
+  -Data Acquisition</br>
+  -Takes a lot of time to train models</br>
+  -Efficiency is dependent upon the data acquired</br>
+  -Model checks the URLs for only a fixed set of features. With technological advances, phishing URLs are also changing appearances.</br>
+  -Consumes a lot of CPU, GPU and TPU power to train models</br>
 
 ## Applications
 
 It has a wide range of applications. Some of which are - 
 
-  -It can be used as generic checker if any someone is not sure about a website while entering personal information.
-  -It can converted into an extension which can then be used by web browsers to quickly detect and alert the user in case of a phishing website.
-  -Can be integrated with antiviruses and firewalls to avoid and block such websites from accessing information.
-  -The solution can be applied in the e-banking and payment sector.
-  -The solution can detect fraud URLs imitating official government websites.
-  -The solution can also be applied to create a more extensive database for identifying phishing URLs.
+  -It can be used as generic checker if any someone is not sure about a website while entering personal information.</br>
+  -It can converted into an extension which can then be used by web browsers to quickly detect and alert the user in case of a phishing website.</br>
+  -Can be integrated with antiviruses and firewalls to avoid and block such websites from accessing information.</br>
+  -The solution can be applied in the e-banking and payment sector.</br>
+  -The solution can detect fraud URLs imitating official government websites.</br>
+  -The solution can also be applied to create a more extensive database for identifying phishing URLs.</br>
   
 ## Future scope
 
