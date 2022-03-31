@@ -11,7 +11,7 @@ The purpose of the project is to detect fake or phishing websites that are tryin
 ## Proposed Solution
 We have proposed a solution that uses ML techniques to detect phisihing websites from their URLs. We have created a web based Phishing detection interface with the help of Flask framework. We trained a Logistic regression model from a predefined data set on numerous set of features and deployed it using IBM Watson Studio in order to accurately determine potential phishing websites.
 
-## We achieved an accuracy rate of 91.6% for our ML model. 
+##### We achieved an accuracy rate of 91.6% for our ML model. 
 
 ### Hardware Requirements :
   -A Generic PC with at least 8 GB ram
